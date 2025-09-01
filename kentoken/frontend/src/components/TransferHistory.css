@@ -1,0 +1,60 @@
+.transfers-container {
+  overflow-x: auto;
+}
+
+.loading {
+  text-align: center;
+  padding: 40px;
+  color: #666;
+}
+
+.no-transfers {
+  text-align: center;
+  padding: 40px;
+  color: #666;
+  font-style: italic;
+}
+
+.transfer-type {
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.transfer-type.outgoing {
+  background: #f8d7da;
+  color: #721c24;
+}
+
+.transfer-type.incoming {
+  background: #d4edda;
+  color: #155724;
+}
+
+.transfer-type.unknown {
+  background: #e2e3e5;
+  color: #6c757d;
+}
+
+.amount {
+  font-weight: 500;
+  font-family: 'Courier New', monospace;
+}
+
+.tx-hash {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.tx-hash:hover {
+  text-decoration: underline;
+}
+
+.table td {
+  font-size: 14px;
+}
+
+.table th {
+  font-size: 14px;
+}
