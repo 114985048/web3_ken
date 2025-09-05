@@ -7,3 +7,12 @@
 [submodule "meme-factory/lib/openzeppelin-contracts-upgradeable"]
 	path = meme-factory/lib/openzeppelin-contracts-upgradeable
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable
+[submodule "NFTMarket_V1/lib/forge-std"]
+	path = NFTMarket_V1/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "NFTMarket_V1/lib/openzeppelin-contracts"]
+	path = NFTMarket_V1/lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
+[submodule "esRNT/lib/forge-std"]
+	path = esRNT/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
