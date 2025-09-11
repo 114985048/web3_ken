@@ -77,3 +77,10 @@ broadcast/
 # Solidity
 *.sol.js
 *.sol.ts
+!/.idea/
+/contract-upgrade/broadcast/
+/contract-upgrade/.cursor/
+/contract_list/lib/
+/contract_list/.github/
+/.idea/
+/contract-upgrade/lib/

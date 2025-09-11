@@ -1,0 +1,24 @@
+{
+  "name": "contract-upgrade",
+  "version": "1.0.0",
+  "description": "智能合约升级项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "ethers": "^5.8.0",
+    "viem": "^2.37.5"
+  },
+  "keywords": [
+    "ethereum",
+    "smart-contracts",
+    "upgrade"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^24.3.1"
+  }
+}
