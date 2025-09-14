@@ -31,3 +31,12 @@
 [submodule "contract-upgrade/lib/openzeppelin-contracts"]
 	path = contract-upgrade/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "bank/lib/forge-std"]
+	path = bank/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "bank/lib/chainlink-brownie-contracts"]
+	path = bank/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "bank/lib/chainlink"]
+	path = bank/lib/chainlink
+	url = https://github.com/smartcontractkit/chainlink
